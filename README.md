@@ -24,7 +24,7 @@ Me chamo Wellington Santana de Albuquerque, tenho 25 anos e sou natural de Perna
       aling="left"
       title="Linkedin"
             width="30px"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/[wellsant-dev](https://www.linkedin.com/in/wellsant-dev)/linkedin-original.svg" height="40" alt="linkedin logo"  />
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="[linkedin logo](https://www.linkedin.com/in/wellsant-dev)"  />
         
 </p>
 
