@@ -20,7 +20,12 @@ Me chamo Wellington Santana de Albuquerque, tenho 25 anos e sou natural de Perna
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/weelsant?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
-    </a>
+        <img
+      aling="left"
+      title="Linkedin"
+            width="30px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/[wellsant-dev](https://www.linkedin.com/in/wellsant-dev)/linkedin-original.svg" height="40" alt="linkedin logo"  />
+        
 </p>
 
 ---
