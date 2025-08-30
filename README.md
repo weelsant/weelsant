@@ -31,7 +31,7 @@ Me chamo Wellington Santana de Albuquerque, tenho 25 anos e sou natural de Perna
 
 ---
 
-###🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
