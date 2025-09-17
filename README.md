@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Me chamo Wellington Santana de Albuquerque, tenho 25 anos e sou natural de Pernambuco. Tenho curso de JacaScript Puro e Desenvolvimento Web, ambos pela DankiCode. Atualmente, estou cursando Ciencia da Computação na Faculdade Anhaguera e Paralelamente estou cursando a linguagem Python também pela DankiCode. Sou muito curioso por tecnologia e busco aprender o tempo todo.
+Me chamo Wellington Santana de Albuquerque, tenho 25 anos e sou natural de Pernambuco. Tenho curso de JacaScript Puro e Desenvolvimento Web, ambos pela DankiCode. Atualmente, estou cursando Ciencia da Computação na Faculdade Estacio e Paralelamente estou cursando a linguagem Python também pela DankiCode. Sou muito curioso por tecnologia e busco aprender o tempo todo.
 
 <p align="left">
     
